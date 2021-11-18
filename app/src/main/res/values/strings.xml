@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translate</string>
+    <string name="txt_language_translator">Language Translator</string>
+    <string name="txt_say_something">Say Something</string>
+    <string name="txt_translate">Translate</string>
+    <string name="txt_translated_text">Translated Text</string>
+</resources>
